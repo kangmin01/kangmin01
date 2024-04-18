@@ -1,16 +1,32 @@
-### Hi there 👋
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=160&color=0:FF8383,100:9ED1FF&fontColor=FF6F6F) -->
 
-<!--
-**kangmin01/kangmin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/nextdotjs-000000?style=flat&logo=nextdotjs&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/kangmin01">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kangmin01&hide_rank=true&show_icons=true&hide=stars,issues&theme=dracula&line_height=30" />
+  </a>
+  <a href="https://github.com/kangmin01">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangmin01&layout=compact&theme=dracula" />
+  </a>
+</p>
