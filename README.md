@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/nextdotjs-000000?style=flat&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/next-000000?style=flat&logo=next&logoColor=white">
 </p>
 
 <p align="center">
